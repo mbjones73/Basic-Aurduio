@@ -3,7 +3,7 @@
 ### Description
 
 ### Picture
-<img src = "https://cvilleschools.instructure.com/courses/31071/files/1807151/download?wrap=1" width="200">
+<img src = "https://github.com/mbjones73/Basic-CAD/blob/master/media/Screenshot%202021-02-17%20at%2011.17.21%20AM.png" width="300">
 
 ## Hammer
 ### Description
