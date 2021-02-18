@@ -1,4 +1,11 @@
 # NotSoBasicCad
+## Wheel
+
+### Description
+In this assignment I created a caster wheel for the caster assignment.
+### Picture
+<img src = "https://github.com/mbjones73/Basic-CAD/blob/master/media/Screenshot%202021-02-17%20at%2011.32.34%20AM.png" width="300">
+
 
 ## Mount
 ### Description
